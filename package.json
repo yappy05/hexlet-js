@@ -13,6 +13,8 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "eslint": "^9.2.0",
+    "globals": "^15.1.0",
     "prettier": "^3.2.5"
   }
 }
